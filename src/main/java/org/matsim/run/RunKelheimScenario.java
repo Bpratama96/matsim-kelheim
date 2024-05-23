@@ -140,7 +140,7 @@ public class RunKelheimScenario extends MATSimApplication {
 	}
 
 	public static void main(String[] args) {
-		MATSimApplication.run(RunKelheimScenario.class, args);
+		MATSimApplication.run(RunKelheimScenario.class,args );
 	}
 
 	public static void addDrtCompanionParameters(DrtWithExtensionsConfigGroup drtWithExtensionsConfigGroup) {
